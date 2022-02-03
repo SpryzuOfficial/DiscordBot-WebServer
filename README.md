@@ -17,8 +17,8 @@
 >BODY:
 >```json
 >{
->    "msg": [message], 
->    "channel": [channel_id]
+>    "msg": "message", 
+>    "channel": "channel_id"
 >}
 >```
 ><br/>
